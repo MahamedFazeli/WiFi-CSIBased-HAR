@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+venv_gpu/
+WiGi_processed_data/
+Participant_wise_mat_4act/
+*.onnx
+*.mat
+*.dat
+*.h5
+loo_*_results/
+diagnostics_results/
+*.jsonl

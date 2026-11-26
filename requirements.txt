@@ -1,0 +1,7 @@
+numpy
+scipy
+h5py
+onnx
+onnx2torch
+scikit-learn
+pywavelets
